@@ -11,3 +11,10 @@ $ cd Website-Status-Checker
 $ npm install
 $ node index
 ```
+
+## Author
+> Dipublikasikan tanggal: 23 Agustus 2019 / oleh : cdw1
+
+Lisensi
+----
+MIT
