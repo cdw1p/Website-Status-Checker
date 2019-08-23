@@ -9,6 +9,7 @@
   "author": "cdw1",
   "license": "ISC",
   "dependencies": {
+    "delay": "^4.3.0",
     "node-fetch": "^2.6.0",
     "readline-sync": "^1.4.10"
   }
